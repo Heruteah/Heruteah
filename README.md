@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Heruteah
 
+#### 👋 Introduction
+Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.
+
 #### 📈 GitHub Stats
 ![Heruteah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
