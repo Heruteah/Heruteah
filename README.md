@@ -1,73 +1,42 @@
-# Heru Dev 🌟  
-Welcome to **Heru Dev**—your gateway to exploring innovative projects and cutting-edge technologies. This page serves as an introduction to our development ecosystem, offering insights into what we do and the technologies we love.
+### Hi there 👋, I'm Heruteah
 
----
+#### About Me
+I am a passionate developer with a keen interest in building innovative solutions and exploring new technologies. I love to learn and share my knowledge with the community.
 
-## 👋 Welcome!  
-Heru Dev is your partner in creating secure, scalable, and interactive solutions. Dive in and explore the endless possibilities we bring to developers and innovators alike.
+#### 🌱 I’m currently learning
+- Advanced JavaScript frameworks (React, Vue)
+- Cloud computing and DevOps practices
+- Data structures and algorithms
 
----
+#### 👯 I’m looking to collaborate on
+- Open source projects
+- Innovative web applications
+- Community-driven initiatives
 
-## 🎯 What We Offer  
-At Heru Dev, we aim to provide:  
-- **Comprehensive Development Tools**: A seamless experience for developers.  
-- **Innovative Project Solutions**: Solving real-world problems with technology.  
-- **Interactive User Interfaces**: Intuitive designs to elevate user engagement.  
-- **Secure and Scalable Applications**: Solutions built to last and grow.  
+#### 💬 Ask me about
+- Web development (HTML, CSS, JavaScript)
+- Backend development (Node.js, Python)
+- Database management (SQL, NoSQL)
 
----
+#### 📫 How to reach me
+- Email: [heruteah@example.com](mailto:heruteah@example.com)
+- LinkedIn: [Heruteah](https://www.linkedin.com/in/heruteah)
+- Twitter: [@heruteah](https://twitter.com/heruteah)
 
-## 💻 Tech Stack  
-We embrace a modern and robust tech stack:  
-- **Frontend**:  
-  - HTML  
-  - CSS  
-  - JavaScript  
+#### ⚡ Fun fact
+- I love exploring new cultures and cuisines.
 
-- **Backend**:  
-  - Node.js  
-  - Python  
+#### 📈 GitHub Stats
+![Heruteah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical)
 
-- **Databases**:  
-  - MongoDB  
-  - MySQL  
+#### 🔭 My Projects
+- [Project 1](https://github.com/Heruteah/project1): A web application for managing tasks.
+- [Project 2](https://github.com/Heruteah/project2): An API for real-time data processing.
+- [Project 3](https://github.com/Heruteah/project3): A mobile app for personal finance management.
 
-- **Tools**:  
-  - Git  
-  - Docker  
-  - Bash  
+#### 📝 Latest Blog Posts
+- [Understanding JavaScript Closures](https://medium.com/@heruteah/understanding-javascript-closures)
+- [Introduction to Docker and Containers](https://medium.com/@heruteah/introduction-to-docker-and-containers)
+- [Building RESTful APIs with Node.js](https://medium.com/@heruteah/building-restful-apis-with-node-js)
 
----
-
-## 🔥 Languages Breakdown  
-Here's an approximate percentage breakdown of the languages and tools we use:  
-- **HTML/CSS**: 99%  
-- **JavaScript**: 40%  
-- **Node.js**: 40%  
-- **C++**: 10%  
-- **C#**: 5%  
-- **Bash**: 5%  
-
----
-
-## ❤️ About  
-Heru Dev was built with passion, innovation, and a love for technology. We aim to inspire developers worldwide with our tools and solutions.  
-
----
-
-## 🏗️ How to Use  
-- Clone the repository:  
-  ```bash
-  git clone https://github.com/YourRepoName/heru-dev-welcome.git
-  ```  
-- Open `index.html` in your favorite browser to get started.  
-
----
-
-## 🚀 Let's Build Together!  
-Collaborations and contributions are always welcome. Feel free to open an issue or create a pull request to contribute to Heru Dev.  
-
----
-
-**© 2025 Heru Dev**  
-*"Innovating, one project at a time."*
+Feel free to connect with me and explore my repositories! Let's build something amazing together.
