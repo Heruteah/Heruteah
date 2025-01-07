@@ -22,6 +22,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" />
 </p>
 
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗜𝗻𝗳𝗼
+<p align="center">
+  <a href="https://github.com/Heruteah?tab=followers">
+    <img src="https://img.shields.io/github/followers/Heruteah?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Heruteah?tab=following">
+    <img src="https://img.shields.io/github/following/Heruteah?label=Following&style=social" alt="GitHub following" />
+  </a>
+  <a href="https://github.com/Heruteah?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Heruteah?label=Stars&style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/Heruteah">
+    <img src="https://komarev.com/ghpvc/?username=Heruteah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
