@@ -1,20 +1,28 @@
-### Hi there 👋, I'm Heruteah
+Hi there, I'm Heruteah
 
-#### 👋 Introduction
+Introduction
 Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.
 
-#### 📷 Profile Image
+Profile Image
 <p align="center">
   <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
-#### 📈 GitHub Stats
+GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Heruteah's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heruteah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-#### 🛠️ Languages and Tools
+Dashboard Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heruteah&theme=radical" alt="Heruteah's GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heruteah&theme=radical" alt="Heruteah's Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heruteah&theme=radical" alt="Heruteah's Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" />
+</p>
+
+Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
