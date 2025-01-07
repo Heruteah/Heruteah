@@ -1,7 +1,7 @@
 # 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗲𝗿𝘂𝘁𝗲𝗮𝗵
 
 ## 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-**𝖧𝖾𝗅𝗅𝗈, 𝖨'𝗆 𝖩𝖺𝗒 𝖬𝖺𝗋, 𝗄𝗇𝗈𝗐𝗇 𝖺𝗌 𝖧𝖾𝗋𝗎 𝖣𝖾𝗏. 𝖨'𝗆 𝗇𝗈𝗍 𝖺 𝗉𝗋𝗈𝗳𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋; 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗇𝖾𝗐𝖻𝗂𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀. 𝖬𝗒 𝖿𝗂𝗋𝗌𝗍 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗂𝗌 𝖯𝗒𝗍𝗁𝗈𝗇.**
+**𝖧𝖾𝗅𝗅𝗈, 𝖨'𝗆 𝖩𝖺𝗒 𝖬𝖺𝗋, 𝗄𝗇𝗈𝗐𝗇 𝖺𝗌 𝖧𝖾𝗋𝗎 𝖣𝖾𝗏. 𝖨'𝗆 𝗇𝗈𝗍 𝖺 𝗉𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋; 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗇𝖾𝗐𝖻𝗂𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀. 𝖬𝗒 𝖿𝗂𝗋𝗌𝗍 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗂𝗌 𝖯𝗒𝗍𝗁𝗈𝗇.**
 
 ## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗜𝗺𝗮𝗴𝗲
 <p align="center">
@@ -26,9 +26,6 @@
 <p align="center">
   <a href="https://github.com/Heruteah?tab=followers">
     <img src="https://img.shields.io/github/followers/Heruteah?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Heruteah?tab=following">
-    <img src="https://img.shields.io/github/following/Heruteah?label=Following&style=for-the-badge&logo=github" alt="GitHub following" />
   </a>
   <a href="https://github.com/Heruteah?tab=repositories">
     <img src="https://img.shields.io/github/stars/Heruteah?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars" />
