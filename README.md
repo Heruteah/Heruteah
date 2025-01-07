@@ -3,7 +3,7 @@
 ## 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 **𝖧𝖾𝗅𝗅𝗈, 𝖨'𝗆 𝖩𝖺𝗒 𝖬𝖺𝗋, 𝗄𝗇𝗈𝗐𝗇 𝖺𝗌 𝖧𝖾𝗋𝗎 𝖣𝖾𝗏. 𝖨'𝗆 𝗇𝗈𝗍 𝖺 𝗉𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋; 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗇𝖾𝗐𝖻𝗂𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀. 𝖬𝗒 𝖿𝗂𝗋𝗌𝗍 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗂𝗌 𝖯𝗒𝗍𝗁𝗈𝗇.**
 
-## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
+## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗜𝗺𝗮𝗴𝗲
 <p align="center">
   <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
@@ -20,8 +20,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heruteah&theme=radical" alt="Heruteah's Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heruteah&theme=radical" alt="Heruteah's Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heruteah&theme=radical" alt="Heruteah's GitHub Streak Stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Heruteah&theme=radical" alt="Heruteah's GitHub Activity Graph" />
 </p>
 
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
