@@ -15,23 +15,23 @@ p {
 }
 </style>
 
-# Hi there, I'm Heruteah
+# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗲𝗿𝘂𝘁𝗲𝗮𝗵
 
-## Introduction
-**Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.**
+## 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+**𝖧𝖾𝗅𝗅𝗈, 𝖨'𝗆 𝖩𝖺𝗒 𝖬𝖺𝗋, 𝗄𝗇𝗈𝗐𝗇 𝖺𝗌 𝖧𝖾𝗋𝗎 𝖣𝖾𝗏. 𝖨'𝗆 𝗇𝗈𝗍 𝖺 𝗉𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋; 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗇𝖾𝗐𝖻𝗂𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀. 𝖬𝗒 𝖿𝗂𝗋𝗌𝗍 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗂𝗌 𝖯𝗒𝗍𝗁𝗈𝗇.**
 
-## Profile Image
+## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗜𝗺𝗮𝗴𝗲
 <p align="center">
   <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
-## GitHub Stats
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Heruteah's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heruteah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Dashboard Stats
+## 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗦𝘁𝗮𝘁𝘀
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heruteah&theme=radical" alt="Heruteah's GitHub Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heruteah&theme=radical" alt="Heruteah's Top Languages by Repo" />
@@ -39,7 +39,7 @@ p {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" />
 </p>
 
-## Languages and Tools
+## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
