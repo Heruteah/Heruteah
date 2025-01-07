@@ -1,20 +1,37 @@
-Hi there, I'm Heruteah
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@400;700&display=swap');
 
-Introduction
-Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
-Profile Image
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+</style>
+
+# Hi there, I'm Heruteah
+
+## Introduction
+**Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.**
+
+## Profile Image
 <p align="center">
   <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
-GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Heruteah's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heruteah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-Dashboard Stats
+## Dashboard Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heruteah&theme=radical" alt="Heruteah's GitHub Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heruteah&theme=radical" alt="Heruteah's Top Languages by Repo" />
@@ -22,7 +39,7 @@ Dashboard Stats
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" />
 </p>
 
-Languages and Tools
+## Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
