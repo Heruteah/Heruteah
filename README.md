@@ -3,6 +3,11 @@
 #### 👋 Introduction
 Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.
 
+#### 📷 Profile Image
+<p align="center">
+  <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
+</p>
+
 #### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Heruteah's GitHub stats" />
@@ -32,9 +37,4 @@ Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm ju
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-</p>
-
-#### 📷 Profile Image
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username?v=4" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
