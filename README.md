@@ -34,17 +34,7 @@ Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm ju
   </a>
 </p>
 
-#### 📅 Current Date and Time
+#### 📷 Profile Image
 <p align="center">
-  <span id="datetime"></span>
+  <img src="https://avatars.githubusercontent.com/u/your-username?v=4" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%;"/>
 </p>
-
-<script>
-  function updateDateTime() {
-    var now = new Date();
-    var datetime = now.toUTCString();
-    document.getElementById("datetime").innerText = datetime;
-  }
-  setInterval(updateDateTime, 1000);
-  updateDateTime();
-</script>
