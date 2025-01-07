@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jay Mar
+### Hi there 👋, I'm Heruteah
 
 #### 👋 Introduction
 Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm just a newbie learning programming. My first programming language is Python.
@@ -33,3 +33,18 @@ Hello, I'm Jay Mar, known as Heru Dev. I'm not a professional programmer; I'm ju
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
+
+#### 📅 Current Date and Time
+<p align="center">
+  <span id="datetime"></span>
+</p>
+
+<script>
+  function updateDateTime() {
+    var now = new Date();
+    var datetime = now.toUTCString();
+    document.getElementById("datetime").innerText = datetime;
+  }
+  setInterval(updateDateTime, 1000);
+  updateDateTime();
+</script>
