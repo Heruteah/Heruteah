@@ -9,18 +9,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jay+Mar%2C+known+as+Heru+Dev.;I'm+not+a+professional+programmer;I'm+just+a+newbie+learning+programming.;My+first+programming+language+is+Python." alt="Typing SVG" />
 </p>
 
-## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 🥰
+## 🥰 Profile
 <p align="center">
   <img src="https://i.imgur.com/xj2VML4.jpeg" alt="Heruteah's profile image" width="150" height="150" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.3);"/>
 </p>
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Heruteah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Heruteah's GitHub stats" style="border-radius: 10px; margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heruteah&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; margin: 10px;"/>
 </p>
 
-## 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗦𝘁𝗮𝘁𝘀 🔥
+## 🔥 Dashboard Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heruteah&theme=radical" alt="Heruteah's GitHub Summary" style="border-radius: 10px; margin: 10px;"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heruteah&theme=radical" alt="Heruteah's Top Languages by Repo" style="border-radius: 10px; margin: 10px;"/>
@@ -28,7 +28,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heruteah&theme=radical" alt="Heruteah's GitHub Stats" style="border-radius: 10px; margin: 10px;"/>
 </p>
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗜𝗻𝗳𝗼 🔗
+## 🔗 GitHub Info
 <p align="center">
   <a href="https://github.com/Heruteah?tab=followers">
     <img src="https://img.shields.io/github/followers/Heruteah?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" style="margin: 5px;" />
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀 🛠️
+## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
