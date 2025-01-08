@@ -1,11 +1,13 @@
 # Hi there, I'm Jay Mar 👋
 
-## 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jay+Mar!;Known+as+Heru+Dev.;I'm+learning+programming!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jay+Mar!;Known+as+Heru+Dev.;I'm+a+newbie+learning+programming.;My+first+language+is+Python." alt="Typing SVG" />
 </p>
 
-**𝖧𝖾𝗅𝗅𝗈, 𝖨'𝗆 𝖩𝖺𝗒 𝖬𝖺𝗋, 𝗄𝗇𝗈𝗐𝗇 𝖺𝗌 𝖧𝖾𝗋𝗎 𝖣𝖾𝗏. 𝖨'𝗆 𝗇𝗈𝗍 𝖺 𝗉𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝖾𝗋; 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗇𝖾𝗐𝖻𝗂𝖾 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀. 𝖬𝗒 𝖿𝗂𝗋𝗌𝗍 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝗂𝗌 𝖯𝗒𝗍𝗁𝗈𝗇.**
+## 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jay+Mar%2C+known+as+Heru+Dev.;I'm+not+a+professional+programmer;I'm+just+a+newbie+learning+programming.;My+first+programming+language+is+Python." alt="Typing SVG" />
+</p>
 
 ## 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 🥰
 <p align="center">
